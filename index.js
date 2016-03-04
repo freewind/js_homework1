@@ -1,3 +1,3 @@
 function hello() {
-	return "hello, world from index.js!";
+	return "hello, world from index.js! modified";
 }
